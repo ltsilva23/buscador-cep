@@ -1,4 +1,4 @@
-# Este é um aplicativo simples em Python que utiliza a biblioteca `tkinter` para criar uma interface gráfica que permite buscar endereços a partir de um CEP, utilizando a API do ViaCEP.
+## Este é um aplicativo simples em Python que utiliza a biblioteca `tkinter` para criar uma interface gráfica que permite buscar endereços a partir de um CEP, utilizando a API do ViaCEP.
 
 ## 📌 Funcionalidades
 
