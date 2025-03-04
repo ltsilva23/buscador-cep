@@ -44,7 +44,7 @@ def pesquisaCEP():
     if numero and not numero.isnumeric():
         messagebox.showerror("Erro", "Digite um número válido ou deixe em branco.")
         return
-
+    
     url = f"https://viacep.com.br/ws/{cep}/json/"
     response = requests.get(url)
 
