@@ -34,7 +34,7 @@ python buscaCep.py
 
 ## 🖥 Captura de Tela (Opcional)
 
-Adicione aqui uma imagem da interface do programa, caso queira ilustrar melhor o funcionamento.
+![Interface do aplicativo](BuscaCEP.png)
 
 ## 🔗 API Utilizada
 
