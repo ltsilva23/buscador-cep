@@ -32,7 +32,7 @@ pip install requests
 python buscaCep.py
 ```
 
-## 🖥 Captura de Tela (Opcional)
+## 🖥 Captura de Tela
 
 ![Interface do aplicativo](BuscaCEP.png)
 
